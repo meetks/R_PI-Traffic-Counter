@@ -33,7 +33,7 @@ Traffic-Counter
   the car is contact with the pipe make sure the sleep interval is good to sample that .
   
   I found the potentiometer test in the above link a good way to test the digital part of the circuit. Finally, the pipe I 
-  used a 4mm polyurethane pipe form the local HW sotre. Cut a sufficiently long piece and seal the other end by burning it 
+  used was a 4mm polyurethane pipe form the local HW sotre. Cut a sufficiently long piece and seal the other end by burning it 
   with a candle or something. Make sure its air tight by dipping the pipe in water and checking for air bubbles. 
   
   Note: Sensor output if prportional to pressure difference. Atmospheric pressure is 101.Kpa. Will share my code and 
