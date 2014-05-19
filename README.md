@@ -36,9 +36,10 @@ Traffic-Counter
   used was a 4mm polyurethane pipe form the local HW sotre. Cut a sufficiently long piece and seal the other end by burning it 
   with a candle or something. Make sure its air tight by dipping the pipe in water and checking for air bubbles. 
   
-  Note: Sensor output if prportional to pressure difference. Atmospheric pressure is 101.Kpa. Will share my code and 
+  Note: Sensor output if proportional to pressure difference. Atmospheric pressure is 101.Kpa. Will share my code and 
   ckt diagram soon. 
   
+  GPIO loopback on the R_PI can be tested by shorting pins 19-20 using a jumper.(check the pinout again not sure about pin nos) 
   
   Have fun......
   
