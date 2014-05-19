@@ -8,13 +8,13 @@ Traffic-Counter
   http://www.freescale.com/files/sensors/doc/data_sheet/MPX5500.pdf
   
   The idea is the cars pass on a pipe that is connected to one of the nozzles. The other nozzle is kept open. The pressure
-  difference causes a voltage change and that drives the ADC. Dat is read on the R_PI as a reading from the ADC. 
+  difference causes a voltage change and that drives the ADC. Data is read on the R_PI as a reading from the ADC. 
   
   Note, the max output of the sensor is > 3.3V so technically the sensor can damage your GPIO pins. 
   Hence, use a voltage divider,   http://en.wikipedia.org/wiki/Voltage_divider
   
-  One of the problems I faced was I took 3 AA batteries to power sensor and that caused a problem with the output of
-  the sensor. To prvent sensor output problems cut a USB cable and use the 5V supply. Else you can use a 9V to 5V converter.
+  One of the problems I faced was I took 3 AA batteries to power the sensor and that caused a problem with the output of
+  the sensor. To prevent sensor output problems cut a USB cable and use the 5V supply. Else you can use a 9V to 5V converter.
   
   http://www.instructables.com/id/portable-9V-to-5V-battery/
   
