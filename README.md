@@ -40,5 +40,13 @@ Traffic-Counter
   
   GPIO loopback on the R_PI can be tested by shorting pins 19-20 using a jumper.(check the pinout again not sure about pin nos) 
   
+  spidev_test.c: Will help you test loopback on RPI
+  car_counter.py: Is the counter code. 
+  
+  
+  TODO:
+   The logic to count cars needs revision. Looking to use something likfe findpeaks in matlab to actually count the cars.
+  
+  
   Have fun......
   
