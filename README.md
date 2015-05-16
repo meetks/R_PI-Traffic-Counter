@@ -33,6 +33,8 @@ Traffic-Counter
   
   http://www.instructables.com/id/portable-9V-to-5V-battery/
   
+  Correction: Later you can use the 5V line from GPIO itself.
+  
   R_PI is very sensitive to amount of the current coming to the board.  Make sure you are getting 700mA at least. We had 
   a problem with one of the microUSB chargers used, make sure you use a good charger. 
   
