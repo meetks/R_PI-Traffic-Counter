@@ -35,7 +35,8 @@ count = 0
 for i in diffdata :
   
   if i > 0 :
-    axelcount = axelcount + 1
+    #XXX:Use Timeseries to count 
+    axelcount = axelcount + 1 
   else:
     diffdata[count] = 0
     
